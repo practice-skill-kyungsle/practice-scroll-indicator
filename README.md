@@ -1,8 +1,11 @@
 # scroll_indicator_prac
 
+스크롤 인디케이터를 공부하여 현업에서 써먹어보자
+
 ## learn from here
 
 [great scroll ani](https://www.youtube.com/watch?v=U7ACjZpk-jk)
 
 ## result!
-https://user-images.githubusercontent.com/79993356/194001379-95858b92-c77f-4bf9-ac4f-fa678069e449.mov
+
+https://github.com/keinn51/keinn51/assets/79993356/69191686-b669-4ae4-a17f-b99a1fa2ed6a
